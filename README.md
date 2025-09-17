@@ -26,9 +26,6 @@ Python and Ansible scripts for system administration and process automation
 Power BI and R Studio dashboards for business intelligence  
 `Power BI` `R Studio` `SQL` `Data Visualization`
 
-## 📈 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin996-ui&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect  
 - 📧 Email: kevin.programa96@gmail.com  
 - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/tu-perfil)  
