@@ -1,19 +1,35 @@
 # Hi, I'm Kevin 👋
 
-**Remote IT Support / Junior SysAdmin (UTC−5)** — building reliable systems, automating routine ops, and documenting clearly.
+**IT Support Specialist | Full-Stack Developer | Automation Engineer**  
 
-- 🔧 **Core:** Windows & Linux admin, Help Desk, Networking (TCP/IP, DNS, DHCP), scripting (Python/Bash), Git, Ansible  
-- 🐘 **Web/DB:** PHP/Laravel, Node.js, PostgreSQL/MySQL  
-- ☁️ **Cloud basics:** GCP, containers (Docker)  
-- 🛰️ **Networking labs:** Cisco/MikroTik/pfSense (Packet Tracer, GNS3, EVE-NG)  
-- 🗂 **Currently looking for:** **Remote** roles with US teams
+📍 Remote - Quito, Ecuador (UTC-5)  
+📧 kevin.programa96@gmail.com • 📞 +593 960 276 037  
+🔗 [LinkedIn](https://linkedin.com/in/tu-perfil) • 🔗 [Portfolio](https://kevin996-ui.github.io)
 
-## Featured Projects
-- **Espeletia Visitor System (Laravel)** — role-based access, CSV/PDF export, email notifications  
-- **Ops Automation Scripts** — checks, restarts, and log collection via Python/Bash/Ansible  
-- **Teams Notifier (Graph API)** — 1:1 user notifications via Microsoft Graph (WIP)
+## 🛠️ Technical Skills  
+**IT & Administration:** Help Desk Support • Ticketing Systems • Windows/Linux • Network Monitoring  
+**Development:** Python • JavaScript • PHP/Laravel • Node.js • React • Flutter  
+**DevOps & Cloud:** Ansible • Docker • GCP • REST APIs • CI/CD  
+**Networking:** TCP/IP • DNS • DHCP • Routing/Switching • GNS3/EVE-NG
 
-## Contact
-- ✉️ kevin.programa96@gmail.com  
-- 🌐 Quito, Ecuador (UTC−5)  
-- 📌 Open to contract & full-remote
+## 🚀 Featured Projects  
+
+### [Visitor Management System](https://github.com/Kevin996-ui/visitor-management)  
+Full-stack web application for visitor registration and access control  
+`Laravel` `PostgreSQL` `Docker` `Bootstrap`
+
+### [IT Automation Scripts](https://github.com/Kevin996-ui/automation-scripts)  
+Python and Ansible scripts for system administration and process automation  
+`Python` `Ansible` `Bash` `Linux`
+
+### [Data Analysis Dashboard](https://github.com/Kevin996-ui/data-dashboards)  
+Power BI and R Studio dashboards for business intelligence  
+`Power BI` `R Studio` `SQL` `Data Visualization`
+
+## 📈 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin996-ui&show_icons=true&theme=radical)
+
+## 📫 Let's Connect  
+- 📧 Email: kevin.programa96@gmail.com  
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/tu-perfil)  
+- 🌐 Portfolio: [Live Portfolio](https://kevin996-ui.github.io)
