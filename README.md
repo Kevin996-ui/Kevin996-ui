@@ -28,5 +28,5 @@ Power BI and R Studio dashboards for business intelligence
 
 ## 📫 Let's Connect  
 - 📧 Email: kevin.programa96@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/tu-perfil)  
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/kevin-eduardo-chac%C3%B3n-fuentes-137a6a381/)  
 - 🌐 Portfolio: [Live Portfolio](https://kevin996-ui.github.io)
